@@ -18,5 +18,15 @@ Port scanning on networks you do not have permission to scan is illegal. Use thi
 Created by [alirezabytes](https://youtube.com/@alirezabytes)
 Video tutorial: https://youtu.be/xUMnRBfEn-I
 
+## Contributing
+Feel free to fork this repository, make improvements, and submit a pull request. If you have any suggestions or issues, please open an issue on GitHub.
+
 ## License
-This project is released under the MIT License. (You can remove or modify this section if desired)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+Follow me for more projects and updates:  
+- [Website](https://alirezabytes.github.io)  
+- [YouTube](https://www.youtube.com/@alirezabytes)  
+- [Telegram](https://t.me/alirezabytes)  
+- [X](https://x.com/alirezabytes)
